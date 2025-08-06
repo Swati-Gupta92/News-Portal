@@ -1,0 +1,173 @@
+a{
+  text-decoration: none;
+}
+
+.text-mycolor {
+  color: #7f0000;
+}
+.bottomele {
+  color: grey;
+  text-decoration: none;
+}
+/* Post news form css */
+.postnewsBox {
+  min-height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(248, 249, 250);
+}
+.postnewsContainer {
+  min-height: 500px;
+  width: 700px;
+  padding: 30px 50px !important;
+}
+.headingText {
+  color: #7f0000;
+}
+
+.themeBtn {
+  background-color: #7f0000;
+}
+.themeBtn:hover {
+  background-color: #7f0000;
+}
+.searchbtn{
+  background-color: #7f0000;
+}
+.searchbtn:hover{
+  background-color: #7f0000;
+}
+
+.topnewsimg{
+  min-height: 100px;
+}
+.topnewstext{
+  font-size: 12px;
+}
+.topnewscard a{
+  text-decoration: none;
+}
+.aboutimg{
+  margin-top: 25px;
+  width: 600px;
+  height: 100px;
+}
+.topnewsbtn{
+  background-color: maroon;
+}
+.logincontainer{
+  margin-top: -17px;
+  margin-bottom: 25px;
+}
+.category_latest_news{
+  min-height: 392px;
+}
+.video_div{
+ height: 200px;
+}
+.video_div_detail{
+   height: 400px; 
+}
+
+.des-dtails{
+  min-height: 400px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.carousel-item {
+  height: 400px;
+  width: 100%;
+  background-size: cover;
+  background-size: 100%;
+}
+
+
+.sliderimg{
+  height:300px;
+}
+.bg-mycolor{
+  background:#7F0000;
+}
+.headlineimg{
+  height:135px;
+}
+.text-mycolor{
+  color:#7F0000;
+}
+.slider{
+  min-height: 350px;
+}
+.headmarquee{
+  height:360px;
+}
+.headline{
+height:360px;
+}
+
+.catcard{
+  transition: 2s;
+}
+.category a{
+  text-decoration: none;
+}
+.categoryimg{
+  height:50px;
+}
+.latestimg{
+  height:50px;
+}
+.aboutimg{
+  height: 150px;
+}
+.topnewsimg{
+  height:200px;
+}
+.topnewstext{
+  font-size:12px;
+}
+.topnewscard a{
+  text-decoration: none;
+}
+.footer{
+  min-height:250px;
+  background-color: black;
+}
+.footerlogo{
+  height:60px;
+}
+.footertext{
+  font-size: 15px;
+}
+.bfooter{
+  height:50px;
+  background:black;
+}
+
+.category_latest_news{
+  min-height: 392px;
+}
+.video_div{
+ height: 200px;
+}
+.video_div_detail{
+   height: 400px; 
+}
+
+.des-dtails{
+  min-height: 400px;
+}
